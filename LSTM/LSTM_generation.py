@@ -1,11 +1,18 @@
 import os
 import pickle
 import numpy as np
+import random
+import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Dropout
 from music21 import stream, note, instrument, tempo
-import random
 
+# Set random seed for reproducibility
+seed = 42
+os.environ['PYTHONHASHSEED'] = str(seed)
+random.seed(seed)
+np.random.seed(seed)
+tf.random.set_seed(seed)
 
 # Step 1: Define the Model Architecture (same as during training)
 def build_model(sequence_length, n_unique_notes):
