@@ -1,0 +1,17 @@
+Transformer Stats:
+*Loss is using categorical crossentropy
+*Accuracy is categorical accuracy, calculated as the proportion of correctly predicted samples out of the total number of samples in the dataset
+
+Epoch 01: Loss = 4.4313, Accuracy = 0.2208
+Epoch 02: Loss = 4.2766, Accuracy = 0.2220
+Epoch 03: Loss = 4.2350, Accuracy = 0.2220
+Epoch 04: Loss = 4.2068, Accuracy = 0.2219
+Epoch 05: Loss = 4.1909, Accuracy = 0.2218
+
+Epoch 06: Loss = 4.1686, Accuracy = 0.2217
+Epoch 07: Loss = 4.1573, Accuracy = 0.2215
+Epoch 08: Loss = 4.1417, Accuracy = 0.2215
+Epoch 09: Loss = 4.1329, Accuracy = 0.2218
+Epoch 10: Loss = 4.1157, Accuracy = 0.2215
+
+*No point in continuing from this point. Stats did not show substantial improvements
