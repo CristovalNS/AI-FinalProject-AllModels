@@ -1,0 +1,44 @@
+LSTM Stats:
+*Loss is using categorical crossentropy
+*Accuracy is categorical accuracy, calculated as the proportion of correctly predicted samples out of the total number of samples in the dataset
+
+
+Epoch 1-10:
+Epoch 01: Loss = 4.2907, Accuracy = 0.2215
+Epoch 02: Loss = 4.1601, Accuracy = 0.2215
+Epoch 03: Loss = 4.1092, Accuracy = 0.2213
+Epoch 04: Loss = 4.0553, Accuracy = 0.2221
+Epoch 05: Loss = 3.9902, Accuracy = 0.2243
+Epoch 06: Loss = 3.9103, Accuracy = 0.2270
+Epoch 07: Loss = 3.8192, Accuracy = 0.2330
+Epoch 08: Loss = 3.7008, Accuracy = 0.2427
+Epoch 09: Loss = 3.5667, Accuracy = 0.2531
+Epoch 10: Loss = 3.4322, Accuracy = 0.2680
+Epoch 11-15 (E15):
+
+Epoch 01: Loss = 3.2981, Accuracy = 0.2837
+Epoch 02: Loss = 3.1748, Accuracy = 0.2988
+Epoch 03: Loss = 3.0520, Accuracy = 0.3149
+Epoch 04: Loss = 2.9349, Accuracy = 0.3319
+Epoch 05: Loss = 2.8237, Accuracy = 0.3470
+Epoch 16-20 (E20):
+
+Epoch 01: Loss = 2.7253, Accuracy = 0.3647
+Epoch 02: Loss = 2.6324, Accuracy = 0.3759
+Epoch 03: Loss = 2.5386, Accuracy = 0.3928
+Epoch 04: Loss = 2.4574, Accuracy = 0.4062
+Epoch 05: Loss = 2.3782, Accuracy = 0.4184
+Epoch 21-25 (E25):
+
+Epoch 01: Loss = 2.3045, Accuracy = 0.4321
+Epoch 02: Loss = 2.2349, Accuracy = 0.4451
+Epoch 03: Loss = 2.1670, Accuracy = 0.4570
+Epoch 04: Loss = 2.1065, Accuracy = 0.4691
+Epoch 05: Loss = 2.0413, Accuracy = 0.4787
+Epoch 26-30 (E30):
+
+Epoch 01: Loss = 1.9940, Accuracy = 0.4901
+Epoch 02: Loss = 1.9330, Accuracy = 0.5021
+Epoch 03: Loss = 1.8812, Accuracy = 0.5114
+Epoch 04: Loss = 1.8292, Accuracy = 0.5222
+Epoch 05: Loss = 1.7863, Accuracy = 0.5304
